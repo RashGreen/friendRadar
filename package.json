@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/RashGreen/friendRadar/issues"
   },
-  "homepage": "https://github.com/RashGreen/friendRadar#readme"
+  "homepage": "https://github.com/RashGreen/friendRadar#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
 }
