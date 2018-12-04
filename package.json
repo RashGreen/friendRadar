@@ -1,0 +1,19 @@
+{
+  "name": "friendradar",
+  "version": "1.0.0",
+  "description": "friend radar is a an attempt to create an app that will match the results of a quiz you take to a list of users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RashGreen/friendRadar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RashGreen/friendRadar/issues"
+  },
+  "homepage": "https://github.com/RashGreen/friendRadar#readme"
+}
